@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="중식">
+        <menu>
+            <item android:title="짜장면" />
+            <item android:title="짬뽕" />
+        </menu>
+    </item>
+    <item android:title="한식">
+        <menu>
+            <item android:title="김치찌개" />
+            <item android:title="순두부찌개" />
+        </menu>
+    </item>
+</menu>
